@@ -6,7 +6,15 @@
 🚀 I am a versatile technologist, fluent in the intricacies of Python, MySQL, SQLite, Java, and JavaScript. My skill set extends gracefully to the realm of web development, where I weave captivating applications with Django, harnessing the artistic power of Bootstrap, HTML, and CSS. Moreover, my proficiency extends to the eloquent language of documentation—LaTeX.
 
 ### Skills
-- Python | Java | Django | MySQL | SQLite | Bootstrap | HTML | CSS
+- Python ![Python Icon](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
+- Java ![Java Icon](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg)
+- Django ![Django Icon](https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg)
+- MySQL ![MySQL Icon](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg)
+- SQLite ![SQLite Icon](https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg)
+- Bootstrap ![Bootstrap Icon](https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg)
+- HTML ![HTML Icon](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)
+- CSS ![CSS Icon](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg)
+
 
 ### Find Me On
 [![GitHub](https://img.shields.io/badge/GitHub-aronyo24-181717?style=flat&logo=github&logoColor=white)](https://github.com/aronyo24)
