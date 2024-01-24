@@ -25,9 +25,9 @@
 ### Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aronyo24&theme=nord)
 
-
 ### Contribution Graph
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=aronyo24)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=aronyo24&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+
 ### GitHub Streak Stats
 ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=aronyo24)
 
