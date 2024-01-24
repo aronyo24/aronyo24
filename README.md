@@ -19,11 +19,12 @@
 ![GitHub Followers](https://img.shields.io/github/followers/aronyo24?style=social)
 
 ### GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aronyo24&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aronyo24&show_icons=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aronyo24&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aronyo24&show_icons=true&count_private=true&theme=radical)
 
 ### Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aronyo24)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aronyo24&theme=nord)
+
 
 ### Contribution Graph
 ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=aronyo24)
