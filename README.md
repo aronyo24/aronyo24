@@ -29,15 +29,10 @@
 ### GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aronyo24&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aronyo24&show_icons=true&count_private=true&theme=radical)
-
 ### Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aronyo24&theme=nord)
-
-### Contribution Graph
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=aronyo24&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aronyo24&theme=onedark)
 
 ### GitHub Streak Stats
-![GitHub Streak Stats](https://streak-stats.demolab.com/?user=aronyo24)
+![GitHub Streak Stats](https://streak-stats.demolab.com/?user=aronyo24&ring=7DD3FC&fire=FFA07A&currStreakLabel=FFD700&sideNums=6E93B5&currStreakNum=FFD700)
 
-### GitHub Metrics
-![GitHub Metrics](https://metrics.lecoq.io/aronyo24)
+
