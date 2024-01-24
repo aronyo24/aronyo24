@@ -1,7 +1,9 @@
+![Django Web Developer](git_banner.png)
+
 # Hi there 👋, I'm Aronyo Mojumder
 ## Python Enthusiast | Django Web Developer | Tech Explorer
 
-![Django Web Developer](git_banner.png)
+
 
 🚀 I am a versatile technologist, fluent in the intricacies of Python, MySQL, SQLite, Java, and JavaScript. My skill set extends gracefully to the realm of web development, where I weave captivating applications with Django, harnessing the artistic power of Bootstrap, HTML, and CSS. Moreover, my proficiency extends to the eloquent language of documentation—LaTeX.
 
