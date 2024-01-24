@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Aronyo Mojumder
+#### I am a Python enthusiast, adept at crafting web applications with Django.
+![I am a Python enthusiast, adept at crafting web applications with Django.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**aronyo24/aronyo24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a versatile technologist, fluent in the intricacies of Python, MySQL, SQLite, Java, and JavaScript. My skill set extends gracefully to the realm of web development, where I weave captivating applications with Django, harnessing the artistic power of Bootstrap, HTML, and CSS. Moreover, my proficiency extends to the eloquent language of documentation—LaTeX.
 
-Here are some ideas to get you started:
+Skills: Python/JAVA/Dango/MYSQL/SQLITE/Bootstrap/HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
