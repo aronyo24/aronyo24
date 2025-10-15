@@ -45,8 +45,7 @@
 
 
 ## 💹 GitHub Contribution Graph
-[![Aronyo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rayan2228&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Aronyo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aronyo24&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
