@@ -44,5 +44,9 @@
 ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=aronyo24&ring=00FFD1&fire=FF007F&currStreakLabel=FFD700&sideNums=00FFFF&currStreakNum=FFAA00&background=0D1117)
 
 
+## 💹 GitHub Contribution Graph
+[![Aronyo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rayan2228&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 
