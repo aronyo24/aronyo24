@@ -41,7 +41,10 @@
 ### Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aronyo24&theme=dracula)
 
-![GitHub Streak Stats](https://streak-stats.demolab.com/?user=aronyo24&ring=00FFD1&fire=FF007F&currStreakLabel=FFD700&sideNums=00FFFF&currStreakNum=FFAA00&background=0D1117)
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aronyo24&theme=highcontrast&ring=00FFD1&fire=FF007F&currStreakLabel=FFD700&sideNums=00FFFF&currStreakNum=FFAA00&background=0D1117)
+
 
 
 ## 💹 GitHub Contribution Graph
