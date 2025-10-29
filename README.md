@@ -51,4 +51,13 @@
 [![Aronyo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aronyo24&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+### 🧠 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aronyo24&theme=radical" alt="Profile Summary" width="100%"/>
+</p>
+
+
+---
+
 
