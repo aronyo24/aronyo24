@@ -34,9 +34,15 @@
 ![GitHub Stars](https://img.shields.io/github/stars/aronyo24?style=social)
 ![GitHub Followers](https://img.shields.io/github/followers/aronyo24?style=social)
 
-### GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aronyo24&layout=compact&theme=vue-dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aronyo24&show_icons=true&count_private=true&theme=vue-dark)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aronyo24&show_icons=true&count_private=true&theme=vue-dark" 
+       alt="GitHub Stats" width="45%" style="display:inline-block; margin-right:1%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aronyo24&layout=compact&theme=vue-dark" 
+       alt="Top Languages" width="29%" style="display:inline-block;" />
+</p>
+
 
 ### Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aronyo24&theme=dracula)
@@ -45,18 +51,15 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aronyo24&theme=highcontrast&ring=00FFD1&fire=FF007F&currStreakLabel=FFD700&sideNums=00FFFF&currStreakNum=FFAA00&background=0D1117)
 
-### 🧠 Profile Summary
+
+### 🧠 Profile Summary & 💹 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aronyo24&theme=radical" alt="Profile Summary" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aronyo24&theme=radical" 
+       alt="Profile Summary" width="49%" style="display:inline-block; margin-right:1%;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aronyo24&theme=merko" 
+       alt="Aronyo's GitHub Activity Graph" width="49%" style="display:inline-block;" />
 </p>
-
-## 💹 GitHub Contribution Graph
-[![Aronyo's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aronyo24&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
 
 ---
 
