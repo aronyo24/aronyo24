@@ -37,10 +37,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aronyo24&show_icons=true&count_private=true&theme=vue-dark" 
-       alt="GitHub Stats" width="49%"  height="500px"  style="display:inline-block; margin-right:1%;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aronyo24&layout=compact&theme=vue-dark" 
-       alt="Top Languages" width="49%"  height="200px"  style="display:inline-block;" />
+       alt="Top Languages" width="40%"  height="400px"  style="display:inline-block;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=aronyo24&show_icons=true&count_private=true&theme=vue-dark" 
+       alt="GitHub Stats" width="52%"  height="500px"  style="display:inline-block; " />
 </p>
 
 
