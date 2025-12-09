@@ -43,9 +43,11 @@
        alt="GitHub Stats" width="52%"  height="500px"  style="display:inline-block; " />
 </p>
 
+### 🏆 GitHub Trophies
 
-### Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aronyo24&theme=dracula)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aronyo24&theme=dracula" alt="GitHub Trophies" />
+</p>
 
 ## 🔥 GitHub Streak
 
